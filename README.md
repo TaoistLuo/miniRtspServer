@@ -11,6 +11,7 @@
 
 二．系统构建
 2.1　Linux 平台
+    &mkdir build
     $ cd build
     $ cmake ../
     $make -j8
